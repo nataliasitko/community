@@ -10,7 +10,7 @@
 ## Test Setup
 * Kyma CLI version: `2.2.0`
 * Kyma: 
-  * Version: main [[commit](https://github.com/kyma-project/kyma/commit/6eb300b0a159fa968763382fbfe918b8cb52f057) and [commit (includes bug fix)](https://github.com/kyma-project/kyma/commit/f8a0c28a43e9eebf192514acc61614300f9909a1)] 
+  * Version: main [commit](https://github.com/kyma-project/kyma/commit/6eb300b0a159fa968763382fbfe918b8cb52f057) and [commit (includes bug fix)](https://github.com/kyma-project/kyma/commit/f8a0c28a43e9eebf192514acc61614300f9909a1)] 
   * Production Profile
   * JetStream with File Storage
 * K8s cluster:
